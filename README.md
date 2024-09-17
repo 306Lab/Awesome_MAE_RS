@@ -1,5 +1,9 @@
 # Awesome_MAE_RS
 
+<img src="https://img.shields.io/badge/Number%20of%20Papers-6-FF6F00" alt="PaperNum"/>
+
+<p align="center"> <img width = "700" height = "382" src="mae.png" /> <p align="center">Fig. 1. Masked Autoencoders from Kaiming He et al.</p>
+
 Collect the latest developments of MAE and its applications in the field of remote sensing
 
 # Paper With Code🔥
