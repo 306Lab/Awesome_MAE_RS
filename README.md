@@ -12,7 +12,7 @@ Collect the latest developments of MAE and its applications in the field of remo
   + (NeurIPS'2022)[SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2207.08051)[:octocat:](https://github.com/sustainlab-group/SatMAE) Yezhen Cong, Samar Khanna
   
   ## RGB/Multi-Spectral based
-  + (ICCV'2023)[Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning](https://arxiv.org/abs/2207.08051)[:octocat:](https://github.com/bair-climate-initiative/scale-mae?tab=readme-ov-file) Colorado J. Reed, Ritwik Gupta
+  + (ICCV'2023)[Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning](https://arxiv.org/abs/2212.14532)[:octocat:](https://github.com/bair-climate-initiative/scale-mae?tab=readme-ov-file) Colorado J. Reed, Ritwik Gupta
   + (CVPR'2024)[SatMAE++: Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2403.05419)[:octocat:](https://github.com/techmn/satmae_pp) Mubashir Noman, Muzammal Naseer
   
   ## Hyper-Spectral based
