@@ -2,7 +2,7 @@
 
 Collect the latest developments of MAE and its applications in the field of remote sensing
 
-<img src="https://img.shields.io/badge/Number%20of%20Papers-6-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Number%20of%20Papers-7-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "700" height = "382" src="data.png" /> <p align="center">SatMAE</p>
 
@@ -19,3 +19,4 @@ Collect the latest developments of MAE and its applications in the field of remo
   + (TGRS'2023)[SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/10314566)[:octocat:](https://github.com/summitgao/SS-MAE) Junyan Lin, Feng Gao
   + (TGRS'2024)[S2HM2: A Spectral–Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Images](https://ieeexplore.ieee.org/document/10508226)[:octocat:](https://github.com/tulilin/S2HM2) Lilin Tu, Jiayi Li
   + (TGRS'2024)[HSIMAE: A Unified Masked Autoencoder With Large-Scale Pretraining for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10607879)[:octocat:](https://github.com/Ryan21wy/HSIMAE) Yue Wang, Ming Wen
+  + (TPAMI'2024)[SpectralGPT: Spectral Remote Sensing Foundation Model](https://ieeexplore.ieee.org/document/10490262)[:octocat:](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT) Danfeng Hong, Bing Zhang
