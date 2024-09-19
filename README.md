@@ -13,6 +13,7 @@ Collect the latest developments of MAE and its applications in the field of remo
   
   ## RGB/Multi-Spectral based
   + (ICCV'2023)[Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning](https://arxiv.org/abs/2212.14532)[:octocat:](https://github.com/bair-climate-initiative/scale-mae?tab=readme-ov-file) Colorado J. Reed, Ritwik Gupta
+  + (NeurIPS'2023)[Cross-Scale MAE: A Tale of Multiscale Exploitation in Remote Sensing](https://openreview.net/forum?id=5oEVdOd6TV)[:octocat:](https://github.com/aicip/Cross-Scale-MAE) Maofeng Tang, Andrei Liviu Cozma
   + (CVPR'2024)[SatMAE++: Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2403.05419)[:octocat:](https://github.com/techmn/satmae_pp) Mubashir Noman, Muzammal Naseer
   
   ## Hyper-Spectral based
