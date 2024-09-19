@@ -2,7 +2,7 @@
 
 Collect the latest developments of MAE and its applications in the field of remote sensing
 
-<img src="https://img.shields.io/badge/Number%20of%20Papers-7-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Number%20of%20Papers-8-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "921" height = "600" src="SatMAEvsSpectralGPT.jpg" /> <p align="center">SatMAE VS SpectralGPT</p>
 
