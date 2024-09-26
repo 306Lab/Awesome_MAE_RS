@@ -2,7 +2,7 @@
 
 Collect the latest developments of MAE and its applications in the field of remote sensing
 
-<img src="https://img.shields.io/badge/Number%20of%20Papers-8-FF6F00" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Number%20of%20Papers-9-FF6F00" alt="PaperNum"/>
 
 <p align="center"> <img width = "921" height = "600" src="SatMAEvsSpectralGPT.jpg" /> <p align="center">SatMAE VS SpectralGPT</p>
 
@@ -22,3 +22,6 @@ Collect the latest developments of MAE and its applications in the field of remo
   + (TGRS'2024)[S2HM2: A Spectral–Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Images](https://ieeexplore.ieee.org/document/10508226)[:octocat:](https://github.com/tulilin/S2HM2) Lilin Tu, Jiayi Li
   + (JSTARS'2024)[HSIMAE: A Unified Masked Autoencoder With Large-Scale Pretraining for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10607879)[:octocat:](https://github.com/Ryan21wy/HSIMAE) Yue Wang, Ming Wen
   + (TPAMI'2024)[SpectralGPT: Spectral Remote Sensing Foundation Model](https://ieeexplore.ieee.org/document/10490262)[:octocat:](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT) Danfeng Hong, Bing Zhang
+
+ ## Multi-Modal based
+  + (ECCV'2024)[MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning](https://arxiv.org/abs/2405.02771)[:octocat:](https://github.com/vishalned/MMEarth-train) Vishal Nedungadi, et al.
